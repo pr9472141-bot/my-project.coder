@@ -1,0 +1,197 @@
+body {
+    background-image: url(https://plus.unsplash.com/premium_photo-1733682103251-841f373eb195?q=80&w=812&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+}
+
+.rp {
+    width: 250px;
+    height: 230px;
+    /* background-color: #afd3a8; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 280px;
+    bottom: 10px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 30px #9e0842;
+}
+
+
+.rm {
+    width: 175px;
+    height: 180px;
+    /* background-color: #d3c7a8; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    box-shadow: 0px 0px 30px rgb(4, 231, 61);
+
+}
+
+.rm:hover {
+    background-image: url(j.jpeg);
+    background-size: cover;
+    width: 175px;
+    height: 180px;
+    /* background-color: brown; */
+    transition: all 1ms ease-in;
+    opacity: 1;
+    box-shadow: 0px 0px 30px rgb(4, 231, 61);
+
+}
+
+.ap {
+    width: 250px;
+    height: 230px;
+    /* background-color: #e22d0d; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 280px;
+    top: 20px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 30px rgb(2, 172, 73);
+
+}
+
+.am {
+    width: 175px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(63, 143, 9); */
+    border-radius: 25px;
+    box-shadow: 0px 0px 30px rgb(235, 5, 158);
+}
+
+.am:hover {
+    background-image: url(u.jpeg);
+    background-size: cover;
+    width: 175px;
+    height: 180px;
+    /* background-color: brown; */
+    transition: all 1ms ease-in;
+    opacity: 1;
+    box-shadow: 0px 0px 30px rgb(235, 5, 158);
+}
+
+.ro {
+    width: 250px;
+    height: 230px;
+    /* background-color: #511ce4; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 300px;
+    bottom: 20px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 30px rgb(248, 212, 8);
+
+}
+
+.rn {
+    width: 175px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(0, 195, 255); */
+    border-radius: 30px;
+    box-shadow: 0px 0px 30px rgb(12, 140, 245);
+
+}
+
+.rn:hover {
+    background-image: url(e.jpeg);
+    background-size: cover;
+    width: 175px;
+    height: 180px;
+    /* background-color: brown; */
+    transition: all 1ms ease-in;
+    opacity: 1;
+    box-shadow: 0px 0px 30px rgb(12, 140, 245);
+
+}
+
+.ha {
+    width: 250px;
+    height: 230px;
+    /* background-color: #50e232; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 300px;
+    top: 20px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 30px #fd0404;
+
+
+
+}
+
+.hp {
+    width: 175px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: yellow; */
+    border-radius: 30px;
+    box-shadow: 0px 0px 30px rgb(228, 4, 190)
+    }
+
+    .hp:hover {
+        background-image: url(i.jpeg);
+        background-size: cover;
+        width: 175px;
+        height: 180px;
+        /* background-color: brown; */
+        transition: all 1ms ease-in;
+        opacity: 1;
+        box-shadow: 0px 0px 30px rgb(248, 61, 14);
+    }
+
+    .ep {
+        width: 250px;
+        height: 230px;
+        /* background-color: #ff169e; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        right: 568px;
+        top: 200px;
+        border-radius: 25px;
+        box-shadow: 0px 0px 30px #07c1f0;
+
+
+    }
+
+    .em {
+        width: 175px;
+        height: 180px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* background-color: black; */
+        border-radius: 30px;
+        box-shadow: 0px 0px 30px hsl(69, 96%, 47%);
+
+    }
+
+    .em:hover {
+        background-image: url(c.jpg);
+        background-size: cover;
+        width: 175px;
+        height: 180px;
+        /* background-color: brown; */
+        transition: all 1ms ease-in;
+        opacity: 1;
+        box-shadow: 0px 0px 30px hsl(69, 96%, 47%);
+    }
